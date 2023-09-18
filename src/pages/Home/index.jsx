@@ -8,6 +8,7 @@ import Dispositivos from "../../components/Dispositivos";
 import Streamings from "../../components/Streamings";
 import Canais from "../../components/Canais";
 import Footer from "../../components/Footer";
+import Contatos from "../../components/Contatos";
 // /movie/now_playing?api_key=cddbb0e44307d77c59eef7c6ecf25c5c&language=pt-BR
 
 function Home() {
@@ -63,6 +64,8 @@ function Home() {
                     )
                 })}
             </div>
+
+            <Contatos/>
 
             <Footer/>
         </div>
