@@ -1,0 +1,25 @@
+
+.section-streamings {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
+
+h1 {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 27px;
+    
+}
+
+.streamings-img {
+    width: 600px;
+    max-width: 90vw;
+    border-radius: 5px;
+
+    margin-top: 4px;
+    margin-bottom: 8px;
+    
+    
+}

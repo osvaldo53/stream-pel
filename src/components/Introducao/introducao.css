@@ -1,0 +1,58 @@
+
+.introducao {
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
+
+.intro-l1 {
+    color: whitesmoke;
+    font-size: 35px;
+}
+
+.intro-l2 {
+    color: orangered;
+    font-size: 35px;
+}
+
+.intro-l3 {
+    color: whitesmoke;
+    font-size: 22px;
+}
+
+.img1 {
+    max-width: 85vw;
+    border-radius: 5px;
+}
+
+.intro-l4 {
+    color: whitesmoke;
+    margin-top: 10px;
+    margin-bottom: 6px;
+    
+}
+
+ul {
+    color: white;
+    list-style: none;
+}
+
+li {
+    display: flex;
+    font-size: 22px;
+}
+
+.check {
+    font-size: 22px;
+    margin-top: 1px;
+    margin-right: 1px;
+}
+
+.intro-listas {
+    display: flex;
+    width: 90vw;
+    max-width: 500px;
+    justify-content: space-around;
+    
+}
